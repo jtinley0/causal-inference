@@ -1,0 +1,3 @@
+[submodule "obesity-causal-analysis"]
+	path = obesity-causal-analysis
+	url = https://github.com/jtinley0/obesity-causal-analysis.git
