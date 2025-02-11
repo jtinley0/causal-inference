@@ -1,7 +1,7 @@
 # Emergency Department Visits for Obese vs. Non-Obese Patients: A Causal Analysis 
 
 _The following is a brief analytical sample project I performed for a health tech start-up focusing on treatment and care coordination for managing obesity. This firm provided a broad topic for me to explore: “How frequently do people with obesity go to the emergency department versus those who are not obese?” Given the firm's interest in an intervention that addresses obesity itself to improve health outcomes (and not the other comorbid health complications), with the firm’s approval, I chose to 
-formalize the original prompt into a more insightful research question: “What are the causal ef ects of being obese on emergency room visits?” The firm required that I exclusively use the open-source Centers for Medicare and Medicaid Services (CMS) 2008-2010 Data Entrepreneurs Synthetic Public Use File 
+formalize the original prompt into a more insightful research question: “What are the causal effects of being obese on emergency room visits?” The firm required that I exclusively use the open-source Centers for Medicare and Medicaid Services (CMS) 2008-2010 Data Entrepreneurs Synthetic Public Use File 
 (DE-SynPUF) to complete the project (more on this data set below). The R programming language was used for statistical analysis._
 
 ### Problem Statement
